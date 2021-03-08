@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9804c029-7565-4774-868f-1e7aeede3a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ejercitando/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Novselenium.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ProbandoConfig/testSelenium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProbandoConfig/testSelenium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +54,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MaryAng\Documents\Nov\src\test\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.testSelenium1.primerTest">
     <configuration name="testSelenium1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Novselenium" />
       <extension name="coverage">
@@ -82,12 +79,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testSelenium1.primerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Novselenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProbandoConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProbandoConfig" />
+      <option name="MAIN_CLASS_NAME" value="ProbandoConfig.testSelenium1" />
+      <option name="METHOD_NAME" value="primerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.testSelenium1.primerTest" />
         <item itemvalue="TestNG.testSelenium1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,39 +132,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1557" height="234" key="GridCell.Tab.0.bottom" timestamp="1604778251559">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="234" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604778251559" />
-    <state width="1557" height="234" key="GridCell.Tab.0.center" timestamp="1604778251558">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="234" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604778251558" />
-    <state width="1557" height="234" key="GridCell.Tab.0.left" timestamp="1604778251558">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="234" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604778251558" />
-    <state width="1557" height="234" key="GridCell.Tab.0.right" timestamp="1604778251558">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="234" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604778251558" />
-    <state width="1093" height="296" key="GridCell.Tab.1.bottom" timestamp="1604777920214">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1093" height="296" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604777920214" />
-    <state width="1093" height="296" key="GridCell.Tab.1.center" timestamp="1604777920214">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1093" height="296" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1604777920214" />
-    <state width="1093" height="296" key="GridCell.Tab.1.left" timestamp="1604777920214">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1093" height="296" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1604777920214" />
-    <state width="1093" height="296" key="GridCell.Tab.1.right" timestamp="1604777920214">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1093" height="296" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1604777920214" />
   </component>
 </project>
